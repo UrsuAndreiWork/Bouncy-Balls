@@ -1,0 +1,53 @@
+﻿  Bounce.cpp
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(27,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(27,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(149,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(149,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(150,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(170,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(183,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(183,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(188,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(188,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(194,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(194,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(213,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(214,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(215,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(215,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(221,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(222,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(223,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(223,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(231,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(232,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(235,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(236,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(265,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(306,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(306,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(324,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(324,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(329,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(329,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(335,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(335,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(351,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(375,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(396,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(398,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(405,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(424,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(426,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(432,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(434,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(446,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(452,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(454,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\BearAndrei\source\repos\Bounce\Bounce\Bounce.cpp(356,8): warning C4101: 'event': unreferenced local variable
+  Generating code
+  10 of 196 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bounce.vcxproj -> C:\Users\BearAndrei\source\repos\Bounce\Release\Bounce.exe
